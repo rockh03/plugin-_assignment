@@ -1,0 +1,9 @@
+Plugin Name: hello plugin
+Plugin URI: https://www.facebook.com/rajeev8126
+Description: A plugin to customise footer
+Version: 1.0.0
+Author: Rajeev Raj Jain
+
+function my_admin_menu () 
+function mt_settings submenu
+
